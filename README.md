@@ -153,8 +153,8 @@
     <h2>Projects</h2>
     <div class="card-grid">
       <div class="card">
-        <h3>Food Recognition System</h3>
-        <p>0.95 IoU instance segmentation model for nutrition tracking.</p>
+        <h3>AI Document Analyzer</h3>
+        <p>an intelligent system that automatically extracts, structures, and analyzes data from over 200 different types of financial documents.</p>
       </div>
       <div class="card">
         <h3>LLM Chatbot</h3>
@@ -163,6 +163,10 @@
       <div class="card">
         <h3>NLP Defect Categorization</h3>
         <p>Automated router log classification with 98% accuracy.</p>
+      </div>
+      <div class="card">
+        <h3>Food Recognition System</h3>
+        <p>0.95 IoU instance segmentation model for nutrition tracking.</p>
       </div>
     </div>
   </section>
@@ -175,7 +179,7 @@
   </section>
 
   <footer>
-    © 2025 Rohan Sohani • Built with ❤️ & AI
+    © 2025 Rohan Sohani • Built with ❤️
   </footer>
 </body>
 </html>

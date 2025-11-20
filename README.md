@@ -1,4 +1,3 @@
- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -172,7 +171,7 @@
     <h2>Contact</h2>
     <p>Email: <a href="mailto:rohans2383@gmail.com">rohans2383@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/rohansohani30/">linkedin.com/in/rohansohani30</a></p>
-    <p>GitHub: <a href="https://github.com/yourgithubusername">github.com/yourgithubusername</a></p>
+    <p>GitHub: <a href="https://github.com/RohanSohani30">github.com/RohanSohani30</a></p>
   </section>
 
   <footer>
